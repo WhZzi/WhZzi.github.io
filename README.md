@@ -1,3 +1,2 @@
 # WhZzi.github.io
-Hello,
-World
+Hello
