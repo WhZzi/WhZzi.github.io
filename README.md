@@ -1,2 +1,0 @@
-# WhZzi.github.io
-Hello
